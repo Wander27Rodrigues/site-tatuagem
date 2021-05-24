@@ -32,3 +32,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ## Contributing
 ## Authors
 * [**Wander27Rodrigues**](https://github.com/Wander27Rodrigues)
+* [**ElbertRibeiro**](https://github.com/ElbertRibeiro)
