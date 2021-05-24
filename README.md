@@ -1,6 +1,14 @@
-# site-tatuagem
+# Site-tatuagem
 
-# formularioi_Dev
+<h4 align="center"> 
+	🚧 🚀 Em construção...  🚧
+</h4>
+
+## Taks
+- [x] Design
+- [x] Estrutura do Projeto
+- [ ] Criação de Componentes
+
 
 ## 🚀 Tecnologias
 
@@ -11,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 ## 💻 Projeto
- Esse projeto foi desvenvolvido para praticar conhecimentos sobre as tecnologias citadas acima.
+ Esse projeto foi criado para divulgar os serviços de um studio de tatuagem
 
 ## 🔖 Layout
 <p align="center">
