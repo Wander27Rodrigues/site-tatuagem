@@ -31,5 +31,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 ## Contributing
 ## Authors
-* [**Wander27Rodrigues**](https://github.com/Wander27Rodrigues)
+* [**Wander27Rodrigues**](https://happy-shirley-6b48b1.netlify.app/)
 * [**ElbertRibeiro**](https://github.com/ElbertRibeiro)
